@@ -1,0 +1,1 @@
+Implements the 3D Armor mod into the standard inventory used since version 0.4.14
