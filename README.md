@@ -7,7 +7,7 @@ that completely overrides the default inventory.
 
 ## Code License
 
-Copyright (C) 2010-2016 Minetest Community, and Copyright (C) 2017 Justin Law
+Copyright (C) 2013-2017 Stuart Jones, and Copyright (C) 2017 Justin Law
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
